@@ -2,7 +2,7 @@
 
 This project is a modern, responsive landing page for Beats headphones, showcasing product features, specifications, and styles. It demonstrates proficiency in front-end web development with a focus on clean design, responsive layouts, and smooth user interactions.
 
-## Live - 
+## Live - https://beatsaudio.vercel.app/
 
 ## Features & Techniques Used
 
